@@ -1,0 +1,50 @@
+img:hover{
+    cursor: pointer;
+}
+.add:hover{
+    cursor: pointer;
+}
+.butt:hover{
+    cursor: pointer;
+    background-color: grey;
+}
+.lang:hover{
+    cursor: pointer;
+}
+.sign:hover{
+    cursor: pointer;
+}
+.return:hover{
+    cursor: pointer;
+}
+.cart:hover{
+    cursor: pointer;
+}
+.all:hover{
+    cursor: pointer;
+}
+li:hover{
+    cursor: pointer;
+}
+.see:hover{
+    cursor: pointer;
+}
+.see1:hover{
+    cursor: pointer;
+}
+.see2{
+    cursor: pointer;
+}
+.price:hover{
+    cursor: pointer;
+}
+.xyz:hover{
+    cursor: pointer;
+}
+.tan:hover{
+    cursor: pointer;
+}
+.butt68:hover{
+    cursor: pointer;
+    background-color: #ebc000;
+}

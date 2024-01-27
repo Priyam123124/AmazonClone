@@ -1,0 +1,308 @@
+.second{
+    display: flex;
+    width: 100%;
+    height: 44px;
+    background-color: #232F3E;
+    bottom: -67px;
+}
+.three{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 27px;
+    height: 44px;
+}
+.line{
+    background-color: white;
+    height: 3px;
+    margin: 2px;
+}
+.all{
+    display: flex;
+    width: 44px;
+    height: 44px;
+    margin: 0px 15px;
+}
+.text{
+    position: relative;
+    left: 2px;
+    bottom: -13px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+li{
+    color: white;
+    list-style: none;
+    display: inline;
+    margin: 10px;
+    position: relative;
+    left: 10px;
+    bottom: -12px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+.banner{
+    display: flex;
+    margin: 0px;
+}
+.adjust{
+    position: relative;
+    bottom: 16px;
+}
+.products{
+    display: flex;
+    /* border: 2px solid greenyellow; */
+    height: 437px;
+    width: 100%;
+    margin: 0px 30px;
+}
+.deal0{
+    position: relative;
+    bottom: 294px;
+}
+.games{
+    background-color: white;
+    width: 24vw;
+    height: 437px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 21px;
+    font-weight: bold;
+}
+.write{
+    margin: 20px 20px;
+}
+.headset{
+    position: relative;
+    left: 18px;
+    bottom: 24px;
+    display: flex;
+    flex-direction: column;
+    /* border: 2px solid red; */
+    width: 11vw;
+    height: 135px;
+}
+.write1{
+    position: relative;
+    left: 11px;
+    bottom: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    font-weight: bold;
+}
+.imghead{
+    width: 6vw;
+    height: 90px;
+}
+.keyboard{
+    position: relative;
+    left: 14vw;
+    bottom: 204px;
+    display: flex;
+    flex-direction: column;
+    /* border: 2px solid red; */
+    width: 8vw;
+    height: 122px;
+}
+.keyboard1{
+    width: 7vw;
+    height: 90px;
+}
+.mouse{
+    position: relative;
+    left: 19px;
+    bottom: 173px;
+    display: flex;
+    flex-direction: column;
+    /* border: 2px solid red; */
+    width: 8vw;
+    height: 122px;
+}
+.mouse1{
+    width: 7vw;
+    height: 90px;
+}
+.chair{
+    position: relative;
+    left: 14vw;
+    bottom: 328px;
+    display: flex;
+    flex-direction: column;
+    /* border: 2px solid red; */
+    width: 9vw;
+    height: 152px;
+}
+.chair1{
+    width: 7vw;
+    height: 110px;
+}
+.write2{
+    position: relative;
+    left: 46px;
+    bottom: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    font-weight: bold;
+}
+.see{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    font-weight: normal;
+    color: #007185;
+    position: relative;
+    left: 27px;
+    bottom: 296px;
+}
+.deal{
+    position: relative;
+    left: 21px;
+}
+.holder{
+    width: 15vw;
+    height: 220px;
+    position: relative;
+    left: 4vw;
+    bottom: 20px;
+}
+.tan{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #cc0c39;
+    color: white;
+    border: 0px;
+    border-radius: 2px;
+    width: 117px;
+    height: 25px;
+}
+.price{
+    color: #cc0c39;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    position: relative;
+    left: 4vh;
+    bottom: 33px;
+}
+.xyz{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    margin: 2px 30px;
+    font-size: 13px;
+    position: relative;
+    bottom: 30px;
+}
+.see1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    font-weight: normal;
+    color: #007185;
+    position: relative;
+    left: 29px;
+    bottom: -6px;
+}
+.deal1{
+    position: relative;
+    left: 44px;
+}
+.dining{
+    position: relative;
+    bottom: 24px;
+    display: flex;
+    flex-direction: column;
+    /* border: 2px solid red; */
+    width: 10vw;
+    height: 152px;
+}
+.dining1{
+    position: relative;
+    bottom: 4px;
+    width: 9vw;
+    height: 110px;
+}
+.writenex{
+    position: relative;
+    left: 15px;
+    bottom: 19px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    font-weight: normal;
+}
+.home{
+    position: relative;
+    left: 12.5vw;
+    bottom: 179px;
+    display: flex;
+    flex-direction: column;
+    /* border: 2px solid red; */
+    width: 10vw;
+    height: 152px; 
+}
+.home1{
+    position: relative;
+    bottom: 4px;
+    width: 9vw;
+    height: 110px;
+}
+.kitchen{
+    position: relative;
+    bottom: 181px;
+    display: flex;
+    flex-direction: column;
+    /* border: 2px solid red; */
+    width: 10vw;
+    height: 152px;
+}
+.health{
+    position: relative;
+    left: 12.5vw;
+    bottom: 336px;
+    display: flex;
+    flex-direction: column;
+    /* border: 2px solid red; */
+    width: 10vw;
+    height: 152px;
+}
+.see2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    font-weight: normal;
+    color: #007185;
+    position: relative;
+    left: 17px;
+    bottom: 285px;  
+}
+.signin{
+    background-color: white;
+    width: 19.5vw;
+    height: 136px;
+    position: relative;
+    left: 62px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+}
+.texture{
+    text-align: center;
+    margin: 20px 0px;
+}
+.butt68{
+    text-align: center;
+    margin: 0px 19px;
+    width: 17vw;
+    height: 30px;
+    border-radius: 4px;
+    border: 0px;
+    background-color: #f7ca00;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container{
+    width: 24vw;
+    height: 437px;
+    display: flex;
+    flex-direction: column;
+}
+.prime{
+    width: 17vw;
+    height: 256px;
+    position: relative;
+    left: 4.5vw;
+    bottom: -26px;
+}

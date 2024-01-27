@@ -1,0 +1,139 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #E3E6E6;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+.first{
+    display: flex;
+    /* position: relative; */
+    justify-content: flex-start;
+    align-content: center;
+    height: 67px;
+    width: 100%;
+    background-color: #0F1111;
+    color: white;
+}
+img{
+    padding: 16px;
+}
+.add{
+    min-width: 153px;
+    max-height: 40px;
+    position: relative;
+    left: 0vw;
+    bottom: -13px;
+}
+.grey{
+    display: inline-block;
+    position: relative;
+    background-color: #0F1111;
+    color: #CCCCCC;
+    width: 58px;
+    left: 16px;
+    bottom: 32.5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+}
+.loc{
+    display: inline-block;
+    position: relative;
+    left: -75px;
+    bottom: -0.5px;
+}
+.ind{
+    display: inline-block;
+    position: relative;
+    left: -91px;
+    bottom: 15.5px;
+    background-color: #0F1111;
+    color: white;
+    width: 45px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: bolder;
+}
+.width{
+    position: relative;
+    left: -46px;
+    bottom: -10px;
+    width: 48vw;
+    height: 43px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+}
+.butt{
+    width: 54px;
+    height: 46.5px;
+    position: relative;
+    left: -45px;
+    bottom: -10px;
+    border-radius: 4px 0px 0px 4px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+.img2{
+    position: relative;
+    left: -64px;
+    bottom: 6px;
+}
+.lang{
+    position: relative;
+    left: -82px;
+    bottom: -13px;
+}
+.tex{
+    position: relative;
+    left: 44px;
+    bottom: 36.5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+}
+.sm{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    font-weight: bold;
+}
+.sm{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    font-weight: bold;
+}
+.bg{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+}
+.sign{
+    min-width: 119px;
+    max-height: 31px;
+    position: relative;
+    left: -51px;
+    bottom: -20px;
+    /* border: 2px solid white; */
+}
+.return{
+    min-width: 68px;
+    max-height: 31px;
+    position: relative;
+    left: -29px;
+    bottom: -20px;
+    /* border: 2px solid white; */
+}
+.resize{
+    position: relative;
+    left: 66px;
+    bottom: 37px;
+}
+.cart{
+    min-width: 99px;
+    max-height: 64px;
+    position: relative;
+    left: -29px;
+    bottom: 8px;
+}

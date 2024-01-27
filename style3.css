@@ -1,0 +1,76 @@
+.deal2{
+    position: relative;
+    bottom: 276px;
+}
+.deal3{
+    position: relative;
+    left: 63px;
+}
+.games1{
+    background-color: white;
+    width: 20.5vw;
+    height: 437px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 21px;
+    font-weight: bold;
+}
+.clothes{
+    display: flex;
+    flex-direction: column;
+    width: 10vw;
+    height: 152px;
+    /* border: 2px solid red; */
+}
+.position1{
+    position: relative;
+    left: 2px;
+    bottom: 26px;
+}
+.position2{
+    position: relative;
+    left: 12vw;
+    bottom: 181px;
+}
+.position3{
+    position: relative;
+    left: 2px;
+    bottom: 168px;
+}
+.position4{
+    position: relative;
+    left: 12vw;
+    bottom: 321px; 
+}
+.see11{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    font-weight: normal;
+    color: #007185;
+}
+.position11{
+    position: relative;
+    left: 17px;
+    bottom: 285px;
+}
+.position12{
+    position: relative;
+    left: 17px;
+    bottom: 308px;
+} 
+.home2{
+    position: relative;
+    bottom: 27px;
+    width: 22vw;
+    height: 323px;
+} 
+.position13{
+    position: relative;
+    left: 17px;
+    bottom: -178px;
+}
+.home3{
+    position: relative;
+    bottom: 27px;
+    width: 18.5vw;
+    height: 290px;
+} 
